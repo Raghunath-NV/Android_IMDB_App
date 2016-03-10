@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMDB Movie App</string>
+    <string name="Search_IMDB">Search IMDB.com</string>
+    <string name="side">|</string>
+    <string name="down">_</string>
+    <string name="finish">Finish</string>
+</resources>
